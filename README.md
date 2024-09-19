@@ -51,26 +51,26 @@
 </details>
 
 <!-- GOAL -->
+
 ## Goal
 
 <div align="center">
   <a>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/800px-Tor-logo-2011-flat.svg.png" alt="ft_onion">
+	<img src="assets/tor_logo.png" alt="ft_onion">
   </a>
 </div>
 </br>
 
-This cybersecurity project aims to create a basic web application accessible from the Tor network by creating a ``hidden service``.
+This cybersecurity project aims to create a basic web application accessible from the Tor network by creating a `hidden service`.
 It has to run on a Docker container and be accessible through a url of the type xxxxxxxxxxxxx.onion.
 Nginx is used to configure the web server.
 The port 80 must be enabled to access the static page via HTTP and the port 4242 must be enabled to access the server using SSH.
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
 
+## Getting Started
 
 ### Prerequisites
 
@@ -80,31 +80,31 @@ Having [Docker](https://docker.com) installed on your system and be able to run 
 
 1. Clone the repo
 
-   ```sh
-   $> git clone https://github.com/Link-Wolf/ft_onion.git
-   ```
+    ```sh
+    $> git clone https://github.com/Link-Wolf/ft_onion.git
+    ```
 
 2. Launch the docker container
-	
-   ```sh
-   $> cd ft_onion
-   $> make
-   ```
 
+    ```sh
+    $> cd ft_onion
+    $> make
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage examples
 
-![](https://cdn.discordapp.com/attachments/907303542438629406/1129044293722578994/image.png)
+![](assets/terminal.png)
 
-![](https://cdn.discordapp.com/attachments/907303542438629406/1129044145240035428/image.png)
+![](assets/web_page.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -119,6 +119,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
 ## Contact
 
 Mail : xxxxxxx@student.42mulhouse.fr
