@@ -2,22 +2,19 @@
 
 <div align="center">
  <a href="https://github.com/Link-Wolf/ft_onion" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Link-Wolf&message=ft_onion&color=blue&logo=github&style=for-the-badge" alt="Link-Wolf - ft_onion"></a>
- <a href="https://"><img src="https://img.shields.io/badge/42_grade-100%2F_100-brightgreen?style=for-the-badge" alt="42 grade - 100 / 100"></a>
  <a href="https://"><img src="https://img.shields.io/badge/Year-2022-ffad9b?style=for-the-badge" alt="Year - 2022"></a>
  <a href="https://github.com/Link-Wolf/ft_onion/stargazers"><img src="https://img.shields.io/github/stars/Link-Wolf/ft_onion?style=for-the-badge&color=yellow" alt="stars - ft_onion"></a>
  <a href="https://github.com/Link-Wolf/ft_onion/network/members"><img src="https://img.shields.io/github/forks/Link-Wolf/ft_onion?style=for-the-badge&color=lightgray" alt="forks - ft_onion"></a>
  <a href="https://github.com/Link-Wolf/ft_onion/issues"><img src="https://img.shields.io/github/issues/Link-Wolf/ft_onion?style=for-the-badge&color=orange" alt="issues - ft_onion"></a>
- <a href="https://www.apple.com/macos/" title="Go to Apple homepage"><img src="https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white&style=for-the-badge&color=9cf" alt="OS - macOS"></a>
+ <a href="https://www.linux.org/" title="Go to Linux homepage"><img src="https://img.shields.io/badge/OS-linux-blue?logo=linux&logoColor=white&style=for-the-badge&color=9cf" alt="OS - linux"></a>
+
 </div>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a>
-    <img src="https://www.42mulhouse.fr/wp-content/uploads/2022/06/logo-42-Mulhouse-white.svg" alt="Logo" width="192" height="80">
-  </a>
 
-  <h3 align="center">Piscine Cybersecurity - ft_onion</h3>
+  <h3 align="center">ft_onion</h3>
 
   <p align="center">
    <em>Unleash the power of anonymity on the Internet!</em><br/>
